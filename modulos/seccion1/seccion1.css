@@ -1,9 +1,10 @@
     .seccion1{
  padding: 0 24px ;
- padding-top: 40px;
+ padding-top: 45px;
  display: flex;
  flex-direction: column;
- gap: 15px;
+ gap: 20px;
+ 
         
  
     } 
@@ -15,13 +16,13 @@
     
 }
 
- .titulo{
+ .titulo1{
     font-size: 32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #486284;
 }
 
- .descripcion{
+ .descripcion1{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #8CA2C0;
@@ -36,7 +37,16 @@ padding: 20px;
 display: flex;
 align-items: center;
 justify-content: center;
-font-size: 15px;
-margin-top: 20px;
+font-size: 20px;
+margin-top: 30px;
+margin-bottom: 30px;
+
 }
+
+.imagen1{
+   padding-bottom: 90px;
+}
+
+
+
 
